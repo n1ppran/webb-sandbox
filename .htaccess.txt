@@ -1,1 +1,3 @@
+Options +FollowSymLins -Indexes
+
 RewriteEngine On
